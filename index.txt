@@ -1,0 +1,71 @@
+Basic js
+========== 
+
+javaScript code is typically interpreted regardless of whether 
+it's used on the frontend or backend.
+
+In frontend development, JavaScript code is interpreted by the user's
+web browser. The browser reads and executes the JavaScript code directly,
+ interpreting it on the fly.
+
+                    document .
+
+                    . = member selection operator
+
+                    object.member
+                    document.getElementById()
+
+operator
+--------
+                        Airthemetic operator
+                    + = Addition
+                    - = sub
+                    / , *
+
+                    = isEqualTo is  Assignment operator
+
+
+String Value
+------------
+
+                    " " = Double Qoute
+                    ' ' = Single Qoute
+
+ 
+
+ Associativity
+--------------
+
+                    document.getElementById('root').innerHTML = 'good morning';
+
+                    Left = Right
+
+Variable
+---------
+
+if u want to create a Variable
+
+                    var <variable name>;
+                    var x;
+                    var y;
+
+                    var z; variable decleration
+                    var z=10;  variable decleration and Initalization
+
+variable are stored in Memory(RAM)
+As a software engineer hmko km se km variable use krne a 
+
+who is the best software engineer ?
+The Software engineer who will utilize the best system resources(RAM , CPU)
+jitna km  ram use krogo jitna km cpu use krogo appka system , cpu ,server free
+rhega
+
+
+Prescedence of operator
+-----------------------
+
+z = x + y;  expression is just like equation(jab b ek se jyda operator aa 
+jatey h to wo expression ban jata h)
+
+Tell me how many operator u can see ?
+2 operator = +
